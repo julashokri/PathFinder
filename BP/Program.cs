@@ -12,9 +12,9 @@ namespace BP
     {
         static void Main(string[] args)
         {
-            //if(args.Length < 4)
+            //if (args.Length < 4)
             //{
-            //    args = new string[] {"in.txt","Spin","Spot","out.txt" };
+            //    args = new string[] { "in.txt", "Spin", "Spot", "out.txt" };
             //}
             if (IncorrectInputArrguments(args))
             {
