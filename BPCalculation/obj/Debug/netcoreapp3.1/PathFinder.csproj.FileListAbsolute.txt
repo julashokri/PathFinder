@@ -1,0 +1,9 @@
+C:\Users\MJ\Documents\BP\BPCalculation\bin\Debug\netcoreapp3.1\PathFinder.deps.json
+C:\Users\MJ\Documents\BP\BPCalculation\bin\Debug\netcoreapp3.1\PathFinder.dll
+C:\Users\MJ\Documents\BP\BPCalculation\bin\Debug\netcoreapp3.1\PathFinder.pdb
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\PathFinder.csprojAssemblyReference.cache
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\PathFinder.AssemblyInfoInputs.cache
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\PathFinder.AssemblyInfo.cs
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\PathFinder.dll
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\PathFinder.pdb

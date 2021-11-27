@@ -1,0 +1,16 @@
+C:\Users\MJ\Documents\BP\BP\bin\Debug\netcoreapp3.1\BP.exe
+C:\Users\MJ\Documents\BP\BP\bin\Debug\netcoreapp3.1\BP.deps.json
+C:\Users\MJ\Documents\BP\BP\bin\Debug\netcoreapp3.1\BP.runtimeconfig.json
+C:\Users\MJ\Documents\BP\BP\bin\Debug\netcoreapp3.1\BP.runtimeconfig.dev.json
+C:\Users\MJ\Documents\BP\BP\bin\Debug\netcoreapp3.1\BP.dll
+C:\Users\MJ\Documents\BP\BP\bin\Debug\netcoreapp3.1\BP.pdb
+C:\Users\MJ\Documents\BP\BP\obj\Debug\netcoreapp3.1\BP.csprojAssemblyReference.cache
+C:\Users\MJ\Documents\BP\BP\obj\Debug\netcoreapp3.1\BP.AssemblyInfoInputs.cache
+C:\Users\MJ\Documents\BP\BP\obj\Debug\netcoreapp3.1\BP.AssemblyInfo.cs
+C:\Users\MJ\Documents\BP\BP\obj\Debug\netcoreapp3.1\BP.csproj.CoreCompileInputs.cache
+C:\Users\MJ\Documents\BP\BP\obj\Debug\netcoreapp3.1\BP.dll
+C:\Users\MJ\Documents\BP\BP\obj\Debug\netcoreapp3.1\BP.pdb
+C:\Users\MJ\Documents\BP\BP\obj\Debug\netcoreapp3.1\BP.genruntimeconfig.cache
+C:\Users\MJ\Documents\BP\BP\obj\Debug\netcoreapp3.1\BP.csproj.CopyComplete
+C:\Users\MJ\Documents\BP\BP\bin\Debug\netcoreapp3.1\PathFinder.dll
+C:\Users\MJ\Documents\BP\BP\bin\Debug\netcoreapp3.1\PathFinder.pdb

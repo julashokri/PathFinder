@@ -1,0 +1,9 @@
+C:\Users\MJ\Documents\BP\BPCalculation\bin\Debug\netcoreapp3.1\BPCalculation.deps.json
+C:\Users\MJ\Documents\BP\BPCalculation\bin\Debug\netcoreapp3.1\BPCalculation.dll
+C:\Users\MJ\Documents\BP\BPCalculation\bin\Debug\netcoreapp3.1\BPCalculation.pdb
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\BPCalculation.csprojAssemblyReference.cache
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\BPCalculation.AssemblyInfoInputs.cache
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\BPCalculation.AssemblyInfo.cs
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\BPCalculation.csproj.CoreCompileInputs.cache
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\BPCalculation.dll
+C:\Users\MJ\Documents\BP\BPCalculation\obj\Debug\netcoreapp3.1\BPCalculation.pdb
