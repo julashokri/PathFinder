@@ -15,7 +15,5 @@ namespace PathFinder.Interface
 
         Task<bool> WriteFile(string path, List<Word> output);
 
-        //List<string> Filter(List<string> input, List<IInputRule> rules); 
-
     }
 }

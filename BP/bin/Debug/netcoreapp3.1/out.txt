@@ -1,1 +1,1 @@
-Spin,Spit,Spot
+Spin,spit,spot
